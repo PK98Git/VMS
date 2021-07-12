@@ -85,6 +85,11 @@ namespace VMS
 
         public void RenderChart()
         {
+           
+        }
+
+        private void bunifuLabel1_Click(object sender, EventArgs e)
+        {
             datapoint1 = new Bunifu.DataViz.DataPoint(Bunifu.DataViz.BunifuDataViz._type.Bunifu_line);
             Bunifu.DataViz.Canvas canvas = new Bunifu.DataViz.Canvas();
             Random random = new Random();
@@ -101,31 +106,6 @@ namespace VMS
             datapoint1.addLabely("10", random.Next(0, 50).ToString());
             datapoint1.addLabely("11", random.Next(0, 50).ToString());
             datapoint1.addLabely("12", random.Next(0, 50).ToString());
-
-            canvas.addData(datapoint1);
-            bunifuDataViz1.Render(canvas);
-
-
-        }
-
-        private void bunifuLabel1_Click(object sender, EventArgs e)
-        {
-            datapoint1 = new Bunifu.DataViz.DataPoint(Bunifu.DataViz.BunifuDataViz._type.Bunifu_line);
-            Bunifu.DataViz.Canvas canvas = new Bunifu.DataViz.Canvas();
-            Random random = new Random();
-
-            datapoint1.addLabely("1", random.Next(0, 3000).ToString());
-            datapoint1.addLabely("2", random.Next(0, 3000).ToString());
-            datapoint1.addLabely("3", random.Next(0, 3000).ToString());
-            datapoint1.addLabely("4", random.Next(0, 3000).ToString());
-            datapoint1.addLabely("5", random.Next(0, 3000).ToString());
-            datapoint1.addLabely("6", random.Next(0, 3000).ToString());
-            datapoint1.addLabely("7", random.Next(0, 3000).ToString());
-            datapoint1.addLabely("8", random.Next(0, 3000).ToString());
-            datapoint1.addLabely("9", random.Next(0, 3000).ToString());
-            datapoint1.addLabely("10", random.Next(0, 3000).ToString());
-            datapoint1.addLabely("11", random.Next(0, 3000).ToString());
-            datapoint1.addLabely("12", random.Next(0, 3000).ToString());
 
             canvas.addData(datapoint1);
             bunifuDataViz1.Render(canvas);
