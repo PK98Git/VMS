@@ -94,11 +94,23 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Forms\Centers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Centers.Designer.cs">
+      <DependentUpon>Centers.cs</DependentUpon>
+    </Compile>
     <Compile Include="Forms\Dashboard.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Forms\Dashboard.Designer.cs">
       <DependentUpon>Dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
     </Compile>
     <Compile Include="Forms\Program.cs" />
     <Compile Include="Forms\Vaccination.cs">
@@ -107,12 +119,27 @@
     <Compile Include="Forms\Vaccination.Designer.cs">
       <DependentUpon>Vaccination.cs</DependentUpon>
     </Compile>
+    <Compile Include="Forms\VCNow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\VCNow.Designer.cs">
+      <DependentUpon>VCNow.cs</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Forms\Centers.resx">
+      <DependentUpon>Centers.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Forms\Dashboard.resx">
       <DependentUpon>Dashboard.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Forms\Vaccination.resx">
       <DependentUpon>Vaccination.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\VCNow.resx">
+      <DependentUpon>VCNow.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -166,6 +193,15 @@
   </ItemGroup>
   <ItemGroup>
     <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\20944953-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doctor-injecting-coronavirus-vaccine-to-a-patient-concept-free-vector.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doctor-injectinector.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

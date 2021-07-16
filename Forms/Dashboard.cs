@@ -35,5 +35,22 @@ namespace VMS.Forms
             this.Hide();
 
         }
+
+        private void bunifuButton5_Click(object sender, EventArgs e)
+        {
+            Centers CE1 = new Centers();
+            CE1.Show();
+            this.Hide();
+        }
+
+        private void chart1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label8_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

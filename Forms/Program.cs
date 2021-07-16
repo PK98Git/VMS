@@ -16,7 +16,7 @@ namespace VMS
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Vaccination());
+            Application.Run(new Forms.Login());
         }
     }
 }
