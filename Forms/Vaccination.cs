@@ -31,7 +31,9 @@ namespace VMS
 
         private void bunifuButton1_Click(object sender, EventArgs e)
         {
-
+            Forms.VCNow VCN1 = new Forms.VCNow();
+            VCN1.Show();
+            this.Hide();
         }
 
         private void bunifuButton1_Click_1(object sender, EventArgs e)
@@ -90,7 +92,7 @@ namespace VMS
 
         private void bunifuLabel1_Click(object sender, EventArgs e)
         {
-            datapoint1 = new Bunifu.DataViz.DataPoint(Bunifu.DataViz.BunifuDataViz._type.Bunifu_line);
+            datapoint1 = new Bunifu.DataViz.DataPoint(Bunifu.DataViz.BunifuDataViz._type.Bunifu_area);
             Bunifu.DataViz.Canvas canvas = new Bunifu.DataViz.Canvas();
             Random random = new Random();
 
@@ -120,6 +122,15 @@ namespace VMS
         private void bunifuCards1_Paint_3(object sender, PaintEventArgs e)
         {
 
+        }
+
+        private void bunifuButton3_Click(object sender, EventArgs e)
+        {
+            
+
+            Forms.Dashboard DB = new Forms.Dashboard();
+            DB.Show();
+            this.Hide();
         }
     }
 }
