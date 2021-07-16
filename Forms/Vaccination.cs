@@ -20,77 +20,43 @@ namespace VMS
         public Vaccination()
         {
             InitializeComponent();
-            RenderChart();
+            
         }
 
         private void Vaccination_Load(object sender, EventArgs e)
         {
-
             
         }
 
         private void bunifuButton1_Click(object sender, EventArgs e)
         {
+            Forms.VCNow VCN = new Forms.VCNow() { Dock = DockStyle.Fill, TopLevel = false, TopMost = true };
+            VCN.FormBorderStyle = FormBorderStyle.None;
+            ActiveForm.Controls.Add(VCN);
 
+            //Forms.Dashboard.tabPage1.Controls.Add(VC1);
+            //VC1.Show();
+            //bunifuPages1.SetPage("VaccinationPg");
+
+
+
+
+            /*
+            Forms.VCNow VCN = new Forms.VCNow() { Dock = DockStyle.Fill, TopLevel = false, TopMost = true };
+            VCN.FormBorderStyle = FormBorderStyle.None;
+            this.Hide();
+            Forms.Dashboard Newd = new Forms.Dashboard();
+            Newd.VacPanel.Controls.Add(VCN);
+            Newd.Show();
+            */
+            
         }
 
-        private void bunifuButton1_Click_1(object sender, EventArgs e)
-        {
-
-        }
-
-        private void bunifuCards1_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
-
-        private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
-
-        private void bunifuCustomTextbox1_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void bunifuCircleProgress1_ProgressChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void bunifuCards1_Paint_1(object sender, PaintEventArgs e)
-        {
-
-        }
-
-        private void bunifuCards1_Paint_2(object sender, PaintEventArgs e)
-        {
-
-        }
-
-        private void bunifuCustomTextbox1_TextChanged_1(object sender, EventArgs e)
-        {
-
-        }
-
-
-        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-
-        }
-
-
-        
-
-        public void RenderChart()
-        {
-           
-        }
+       
 
         private void bunifuLabel1_Click(object sender, EventArgs e)
         {
-            datapoint1 = new Bunifu.DataViz.DataPoint(Bunifu.DataViz.BunifuDataViz._type.Bunifu_line);
+            datapoint1 = new Bunifu.DataViz.DataPoint(Bunifu.DataViz.BunifuDataViz._type.Bunifu_area);
             Bunifu.DataViz.Canvas canvas = new Bunifu.DataViz.Canvas();
             Random random = new Random();
 
@@ -120,6 +86,13 @@ namespace VMS
         private void bunifuCards1_Paint_3(object sender, PaintEventArgs e)
         {
 
+        }
+
+        private void bunifuButton3_Click(object sender, EventArgs e)
+        {
+            Forms.Dashboard DB = new Forms.Dashboard();
+            DB.Show();
+            this.Hide();
         }
     }
 }

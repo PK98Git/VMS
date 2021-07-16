@@ -132,10 +132,21 @@
   <metadata name="NameCol.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="bunifuTextBox1.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAMgAAAAjCAYAAADR20XfAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEuSURBVHhe7dwxSsRQGIXRLMMluAxLF+BksHADk2xvWrdg
+        I+SJO1BEbGwsNDNzQZRfsH/nwiEw89LlI10GM/vHNrv7s+3c9uO8PK/XT+jN8dmfHm6v53aeLE5LHC/b
+        eSlvhK5M7elHJOuPe3HAt3FaluSxBjK19+oQ9Cx5HN8g5QHoWfIQCFSSh0CgkjwEApXkIRCoJA+BQCV5
+        CAQqyUMgUEkeAoFK8hAIVJKHQKCSPAQCleQhEKgkD4FAJXkIBCrJQyBQSR4CgUryEAhUkodAoJI8BAKV
+        5CEQqCQPgUAleQgEKslDIFBJHgKBSvIYhnFePqoD0LPkcXyD3P3+E3p2+NJ78lgDmZaL7dReq4PQobWF
+        x03yOO1q1y7HaXkrDkM/Dh9y37WbZGFmf28YvgARL1fbo0wMbgAAAABJRU5ErkJggg==
+</value>
+  </data>
   <data name="bunifuLabel1.BaseStylesheet" xml:space="preserve">
     <value>#bunifu-label { padding: 1.2px; font-family: 'Microsoft Tai Le'; font-size: 12pt; width: 100%; height: 100%; font-style: normal; font-weight: normal; text-decoration: none; color: ; text-align: left; }</value>
   </data>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="bunifuButton4.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAJEAAAAtCAYAAACu0IktAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
@@ -188,7 +199,7 @@
         L3IE8b38Y+l+yO8C0cNz+S+eqghBrAwGPwHR3D9RTXL0rgAAAABJRU5ErkJggg==
 </value>
   </data>
-  <data name="asasd.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="VCNowBTN.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAALkAAAAtCAYAAADyWsoJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
         YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAK1SURBVHhe7Z2xaxRREIevtLS02L2ztLS0tLQSG8HSUvwL

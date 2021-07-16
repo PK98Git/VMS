@@ -63,6 +63,56 @@ namespace VMS.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _20944953_1 {
+            get {
+                object obj = ResourceManager.GetObject("20944953-1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap close_btn {
+            get {
+                object obj = ResourceManager.GetObject("close btn", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap covidshield {
+            get {
+                object obj = ResourceManager.GetObject("covidshield", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap doctor_injectinector {
+            get {
+                object obj = ResourceManager.GetObject("doctor-injectinector", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap doctor_injecting_coronavirus_vaccine_to_a_patient_concept_free_vector {
+            get {
+                object obj = ResourceManager.GetObject("doctor-injecting-coronavirus-vaccine-to-a-patient-concept-free-vector", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap image_2021_06_07_155016 {
             get {
                 object obj = ResourceManager.GetObject("image_2021-06-07_155016", resourceCulture);
@@ -86,6 +136,16 @@ namespace VMS.Properties {
         internal static System.Drawing.Bitmap Logo {
             get {
                 object obj = ResourceManager.GetObject("Logo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap output_onlinepngtools__1_ {
+            get {
+                object obj = ResourceManager.GetObject("output-onlinepngtools (1)", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
