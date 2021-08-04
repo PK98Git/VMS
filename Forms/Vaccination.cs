@@ -132,5 +132,10 @@ namespace VMS
             DB.Show();
             this.Hide();
         }
+
+        private void bunifuButton4_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

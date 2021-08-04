@@ -52,5 +52,12 @@ namespace VMS.Forms
         {
 
         }
+
+        private void bunifuButton3_Click(object sender, EventArgs e)
+        {
+            staff s1 = new staff();
+            s1.Show();
+            this.Hide();
+        }
     }
 }
