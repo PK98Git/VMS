@@ -103,10 +103,7 @@ namespace VMS.Forms
 
         private void bunifuButton4_Click(object sender, EventArgs e)
         {
-            staff.Staff S1 = new staff.Staff() { Dock = DockStyle.Fill, TopLevel = false, TopMost = true };
-            S1.FormBorderStyle = FormBorderStyle.None;
-            this.StaffPanel.Controls.Add(S1);
-            S1.Show();
+            
 
         }
 
