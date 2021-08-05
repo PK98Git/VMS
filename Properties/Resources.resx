@@ -127,19 +127,28 @@
   <data name="doctor-injecting-coronavirus-vaccine-to-a-patient-concept-free-vector" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\doctor-injecting-coronavirus-vaccine-to-a-patient-concept-free-vector.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="undraw_doctor_kw5l 1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\undraw_doctor_kw5l 1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="image_2021-06-07_155016 (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\image_2021-06-07_155016 (1).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="search_img" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\search_img.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="nurse" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\nurse.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="image_2021-06-07_155016" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\image_2021-06-07_155016.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="search_img" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\search_img.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="doctor-injectinector" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\doctor-injectinector.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="undraw_doctor_kw5l" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\undraw_doctor_kw5l.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

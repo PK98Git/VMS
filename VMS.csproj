@@ -51,30 +51,83 @@
     <StartupObject>VMS.Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Bunifu.Core, Version=1.11.5.1, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9" />
+    <Reference Include="Bunifu.Core">
+      <HintPath>..\bunifu\Bunifu UI WinForms 1.11.5.1 (1)\Bunifu UI WinForms 1.11.5.1\Bunifu.Core.dll</HintPath>
+    </Reference>
     <Reference Include="Bunifu.UI.WinForm.BunifuShadowPanel">
-      <HintPath>..\..\..\Desktop\E\Uni\UOK\Y2S1\INTE 21223 - Interactive Application Development (20192020)\Bunifu UI WinForms 1.11.5.1\Bunifu UI WinForms 1.11.5.1\Bunifu.UI.WinForm.BunifuShadowPanel.dll</HintPath>
+      <HintPath>..\bunifu\Bunifu UI WinForms 1.11.5.1 (1)\Bunifu UI WinForms 1.11.5.1\Bunifu.UI.WinForm.BunifuShadowPanel.dll</HintPath>
     </Reference>
     <Reference Include="Bunifu.UI.WinForms.BunifuButton">
-      <HintPath>..\..\..\Desktop\E\Uni\UOK\Y2S1\INTE 21223 - Interactive Application Development (20192020)\Bunifu UI WinForms 1.11.5.1\Bunifu UI WinForms 1.11.5.1\Bunifu.UI.WinForms.BunifuButton.dll</HintPath>
+      <HintPath>..\bunifu\Bunifu UI WinForms 1.11.5.1 (1)\Bunifu UI WinForms 1.11.5.1\Bunifu.UI.WinForms.BunifuButton.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuCheckBox">
+      <HintPath>..\bunifu\Bunifu UI WinForms 1.11.5.1 (1)\Bunifu UI WinForms 1.11.5.1\Bunifu.UI.WinForms.BunifuCheckBox.dll</HintPath>
     </Reference>
     <Reference Include="Bunifu.UI.WinForms.BunifuCircleProgress">
-      <HintPath>..\..\..\Desktop\E\Uni\UOK\Y2S1\INTE 21223 - Interactive Application Development (20192020)\Bunifu UI WinForms 1.11.5.1\Bunifu UI WinForms 1.11.5.1\Bunifu.UI.WinForms.BunifuCircleProgress.dll</HintPath>
+      <HintPath>..\bunifu\Bunifu UI WinForms 1.11.5.1 (1)\Bunifu UI WinForms 1.11.5.1\Bunifu.UI.WinForms.BunifuCircleProgress.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuColorTransition">
+      <HintPath>..\bunifu\Bunifu UI WinForms 1.11.5.1 (1)\Bunifu UI WinForms 1.11.5.1\Bunifu.UI.WinForms.BunifuColorTransition.dll</HintPath>
     </Reference>
     <Reference Include="Bunifu.UI.WinForms.BunifuDataGridView">
-      <HintPath>..\..\..\Desktop\E\Uni\UOK\Y2S1\INTE 21223 - Interactive Application Development (20192020)\Bunifu UI WinForms 1.11.5.1\Bunifu UI WinForms 1.11.5.1\Bunifu.UI.WinForms.BunifuDataGridView.dll</HintPath>
+      <HintPath>..\bunifu\Bunifu UI WinForms 1.11.5.1 (1)\Bunifu UI WinForms 1.11.5.1\Bunifu.UI.WinForms.BunifuDataGridView.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuDatePicker">
+      <HintPath>..\bunifu\Bunifu UI WinForms 1.11.5.1 (1)\Bunifu UI WinForms 1.11.5.1\Bunifu.UI.WinForms.BunifuDatePicker.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuDropdown">
+      <HintPath>..\bunifu\Bunifu UI WinForms 1.11.5.1 (1)\Bunifu UI WinForms 1.11.5.1\Bunifu.UI.WinForms.BunifuDropdown.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuFormDock">
+      <HintPath>..\bunifu\Bunifu UI WinForms 1.11.5.1 (1)\Bunifu UI WinForms 1.11.5.1\Bunifu.UI.WinForms.BunifuFormDock.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuGauge">
+      <HintPath>..\bunifu\Bunifu UI WinForms 1.11.5.1 (1)\Bunifu UI WinForms 1.11.5.1\Bunifu.UI.WinForms.BunifuGauge.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuImageButton">
+      <HintPath>..\bunifu\Bunifu UI WinForms 1.11.5.1 (1)\Bunifu UI WinForms 1.11.5.1\Bunifu.UI.WinForms.BunifuImageButton.dll</HintPath>
     </Reference>
     <Reference Include="Bunifu.UI.WinForms.BunifuLabel">
-      <HintPath>..\..\..\Desktop\E\Uni\UOK\Y2S1\INTE 21223 - Interactive Application Development (20192020)\Bunifu UI WinForms 1.11.5.1\Bunifu UI WinForms 1.11.5.1\Bunifu.UI.WinForms.BunifuLabel.dll</HintPath>
+      <HintPath>..\bunifu\Bunifu UI WinForms 1.11.5.1 (1)\Bunifu UI WinForms 1.11.5.1\Bunifu.UI.WinForms.BunifuLabel.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuPages">
+      <HintPath>..\bunifu\Bunifu UI WinForms 1.11.5.1 (1)\Bunifu UI WinForms 1.11.5.1\Bunifu.UI.WinForms.BunifuPages.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuPictureBox">
+      <HintPath>..\bunifu\Bunifu UI WinForms 1.11.5.1 (1)\Bunifu UI WinForms 1.11.5.1\Bunifu.UI.WinForms.BunifuPictureBox.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuProgressBar">
+      <HintPath>..\bunifu\Bunifu UI WinForms 1.11.5.1 (1)\Bunifu UI WinForms 1.11.5.1\Bunifu.UI.WinForms.BunifuProgressBar.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuRadioButton">
+      <HintPath>..\bunifu\Bunifu UI WinForms 1.11.5.1 (1)\Bunifu UI WinForms 1.11.5.1\Bunifu.UI.WinForms.BunifuRadioButton.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuScrollBar">
+      <HintPath>..\bunifu\Bunifu UI WinForms 1.11.5.1 (1)\Bunifu UI WinForms 1.11.5.1\Bunifu.UI.WinForms.BunifuScrollBar.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuSlider">
+      <HintPath>..\bunifu\Bunifu UI WinForms 1.11.5.1 (1)\Bunifu UI WinForms 1.11.5.1\Bunifu.UI.WinForms.BunifuSlider.dll</HintPath>
     </Reference>
     <Reference Include="Bunifu.UI.WinForms.BunifuTextbox">
-      <HintPath>..\..\..\Desktop\E\Uni\UOK\Y2S1\INTE 21223 - Interactive Application Development (20192020)\Bunifu UI WinForms 1.11.5.1\Bunifu UI WinForms 1.11.5.1\Bunifu.UI.WinForms.BunifuTextbox.dll</HintPath>
+      <HintPath>..\bunifu\Bunifu UI WinForms 1.11.5.1 (1)\Bunifu UI WinForms 1.11.5.1\Bunifu.UI.WinForms.BunifuTextbox.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuToolTip">
+      <HintPath>..\bunifu\Bunifu UI WinForms 1.11.5.1 (1)\Bunifu UI WinForms 1.11.5.1\Bunifu.UI.WinForms.BunifuToolTip.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuTransition">
+      <HintPath>..\bunifu\Bunifu UI WinForms 1.11.5.1 (1)\Bunifu UI WinForms 1.11.5.1\Bunifu.UI.WinForms.BunifuTransition.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuUserControl">
+      <HintPath>..\bunifu\Bunifu UI WinForms 1.11.5.1 (1)\Bunifu UI WinForms 1.11.5.1\Bunifu.UI.WinForms.BunifuUserControl.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.ToggleSwitch">
+      <HintPath>..\bunifu\Bunifu UI WinForms 1.11.5.1 (1)\Bunifu UI WinForms 1.11.5.1\Bunifu.UI.WinForms.ToggleSwitch.dll</HintPath>
     </Reference>
     <Reference Include="bunifuDataviz 1.0.1">
-      <HintPath>..\..\..\Desktop\E\Uni\UOK\Y2S1\INTE 21223 - Interactive Application Development (20192020)\bunifuDataviz 1.0.1\bunifuDataviz 1.0.1.dll</HintPath>
+      <HintPath>..\..\Downloads\bunifuDataviz 1.0.1.dll</HintPath>
     </Reference>
     <Reference Include="Bunifu_UI_v1.5.3">
-      <HintPath>..\..\..\Desktop\E\Uni\UOK\Y2S1\INTE 21223 - Interactive Application Development (20192020)\Bunifu UI WinForms 1.11.5.1\Bunifu UI WinForms 1.11.5.1\Bunifu_UI_v1.5.3.dll</HintPath>
+      <HintPath>..\bunifu\Bunifu UI WinForms 1.11.5.1 (1)\Bunifu UI WinForms 1.11.5.1\Bunifu_UI_v1.5.3.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.VisualBasic" />
     <Reference Include="System" />
@@ -94,6 +147,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="doctor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="doctor.Designer.cs">
+      <DependentUpon>doctor.cs</DependentUpon>
+    </Compile>
     <Compile Include="Forms\Centers.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -113,6 +172,12 @@
       <DependentUpon>Login.cs</DependentUpon>
     </Compile>
     <Compile Include="Forms\Program.cs" />
+    <Compile Include="Forms\staff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\staff.Designer.cs">
+      <DependentUpon>staff.cs</DependentUpon>
+    </Compile>
     <Compile Include="Forms\Vaccination.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -125,7 +190,22 @@
     <Compile Include="Forms\VCNow.Designer.cs">
       <DependentUpon>VCNow.cs</DependentUpon>
     </Compile>
+    <Compile Include="nurse.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="nurse.Designer.cs">
+      <DependentUpon>nurse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="phi.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="phi.Designer.cs">
+      <DependentUpon>phi.cs</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="doctor.resx">
+      <DependentUpon>doctor.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Forms\Centers.resx">
       <DependentUpon>Centers.cs</DependentUpon>
     </EmbeddedResource>
@@ -135,11 +215,20 @@
     <EmbeddedResource Include="Forms\Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Forms\staff.resx">
+      <DependentUpon>staff.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Forms\Vaccination.resx">
       <DependentUpon>Vaccination.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\VCNow.resx">
       <DependentUpon>VCNow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="nurse.resx">
+      <DependentUpon>nurse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="phi.resx">
+      <DependentUpon>phi.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -202,6 +291,15 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\doctor-injectinector.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nurse.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\undraw_doctor_kw5l 1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\undraw_doctor_kw5l.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

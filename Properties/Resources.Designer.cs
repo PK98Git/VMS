@@ -123,9 +123,39 @@ namespace VMS.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap nurse {
+            get {
+                object obj = ResourceManager.GetObject("nurse", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap search_img {
             get {
                 object obj = ResourceManager.GetObject("search_img", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap undraw_doctor_kw5l {
+            get {
+                object obj = ResourceManager.GetObject("undraw_doctor_kw5l", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap undraw_doctor_kw5l_1 {
+            get {
+                object obj = ResourceManager.GetObject("undraw_doctor_kw5l 1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

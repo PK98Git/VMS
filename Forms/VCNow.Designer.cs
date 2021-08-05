@@ -587,7 +587,7 @@ namespace VMS.Forms
             stateProperties17.ForeColor = System.Drawing.Color.Empty;
             stateProperties17.PlaceholderForeColor = System.Drawing.Color.Empty;
             this.bunifuTextBox2.OnActiveState = stateProperties17;
-            stateProperties18.BorderColor = System.Drawing.Color.Empty;
+            stateProperties18.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(161)))), ((int)(((byte)(161)))), ((int)(((byte)(161)))));
             stateProperties18.FillColor = System.Drawing.Color.White;
             stateProperties18.ForeColor = System.Drawing.Color.Empty;
             stateProperties18.PlaceholderForeColor = System.Drawing.Color.Silver;
