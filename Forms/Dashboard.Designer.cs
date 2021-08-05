@@ -92,7 +92,6 @@ namespace VMS.Forms
             this.tabPage1 = new System.Windows.Forms.TabPage();
             this.label2 = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.panel2.SuspendLayout();
             this.DashHeader.SuspendLayout();
             this.tabPage4.SuspendLayout();

@@ -52,19 +52,19 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Bunifu.UI.WinForms.BunifuButton">
-      <HintPath>..\..\..\Desktop\E\Uni\UOK\Y2S1\INTE 21223 - Interactive Application Development (20192020)\Bunifu UI WinForms 1.11.5.1\Bunifu UI WinForms 1.11.5.1\Bunifu.UI.WinForms.BunifuButton.dll</HintPath>
+      <HintPath>..\bunifu\Bunifu UI WinForms 1.11.5.1 (1)\Bunifu UI WinForms 1.11.5.1\Bunifu.UI.WinForms.BunifuButton.dll</HintPath>
     </Reference>
     <Reference Include="Bunifu.UI.WinForms.BunifuCheckBox">
       <HintPath>..\..\..\Desktop\E\Uni\UOK\Y2S1\INTE 21223 - Interactive Application Development (20192020)\Bunifu UI WinForms 1.11.5.1\Bunifu UI WinForms 1.11.5.1\Bunifu.UI.WinForms.BunifuCheckBox.dll</HintPath>
     </Reference>
     <Reference Include="Bunifu.UI.WinForms.BunifuCircleProgress">
-      <HintPath>..\..\..\Desktop\E\Uni\UOK\Y2S1\INTE 21223 - Interactive Application Development (20192020)\Bunifu UI WinForms 1.11.5.1\Bunifu UI WinForms 1.11.5.1\Bunifu.UI.WinForms.BunifuCircleProgress.dll</HintPath>
+      <HintPath>..\bunifu\Bunifu UI WinForms 1.11.5.1 (1)\Bunifu UI WinForms 1.11.5.1\Bunifu.UI.WinForms.BunifuCircleProgress.dll</HintPath>
     </Reference>
     <Reference Include="Bunifu.UI.WinForms.BunifuColorTransition">
       <HintPath>..\..\..\Desktop\E\Uni\UOK\Y2S1\INTE 21223 - Interactive Application Development (20192020)\Bunifu UI WinForms 1.11.5.1\Bunifu UI WinForms 1.11.5.1\Bunifu.UI.WinForms.BunifuColorTransition.dll</HintPath>
     </Reference>
     <Reference Include="Bunifu.UI.WinForms.BunifuDataGridView">
-      <HintPath>..\..\..\Desktop\E\Uni\UOK\Y2S1\INTE 21223 - Interactive Application Development (20192020)\Bunifu UI WinForms 1.11.5.1\Bunifu UI WinForms 1.11.5.1\Bunifu.UI.WinForms.BunifuDataGridView.dll</HintPath>
+      <HintPath>..\bunifu\Bunifu UI WinForms 1.11.5.1 (1)\Bunifu UI WinForms 1.11.5.1\Bunifu.UI.WinForms.BunifuDataGridView.dll</HintPath>
     </Reference>
     <Reference Include="Bunifu.UI.WinForms.BunifuDatePicker">
       <HintPath>..\..\..\Desktop\E\Uni\UOK\Y2S1\INTE 21223 - Interactive Application Development (20192020)\Bunifu UI WinForms 1.11.5.1\Bunifu UI WinForms 1.11.5.1\Bunifu.UI.WinForms.BunifuDatePicker.dll</HintPath>
@@ -82,7 +82,7 @@
       <HintPath>..\..\..\Desktop\E\Uni\UOK\Y2S1\INTE 21223 - Interactive Application Development (20192020)\Bunifu UI WinForms 1.11.5.1\Bunifu UI WinForms 1.11.5.1\Bunifu.UI.WinForms.BunifuImageButton.dll</HintPath>
     </Reference>
     <Reference Include="Bunifu.UI.WinForms.BunifuLabel">
-      <HintPath>..\..\..\Desktop\E\Uni\UOK\Y2S1\INTE 21223 - Interactive Application Development (20192020)\Bunifu UI WinForms 1.11.5.1\Bunifu UI WinForms 1.11.5.1\Bunifu.UI.WinForms.BunifuLabel.dll</HintPath>
+      <HintPath>..\bunifu\Bunifu UI WinForms 1.11.5.1 (1)\Bunifu UI WinForms 1.11.5.1\Bunifu.UI.WinForms.BunifuLabel.dll</HintPath>
     </Reference>
     <Reference Include="Bunifu.UI.WinForms.BunifuPages">
       <HintPath>..\..\..\Desktop\E\Uni\UOK\Y2S1\INTE 21223 - Interactive Application Development (20192020)\Bunifu UI WinForms 1.11.5.1\Bunifu UI WinForms 1.11.5.1\Bunifu.UI.WinForms.BunifuPages.dll</HintPath>
@@ -103,7 +103,7 @@
       <HintPath>..\..\..\Desktop\E\Uni\UOK\Y2S1\INTE 21223 - Interactive Application Development (20192020)\Bunifu UI WinForms 1.11.5.1\Bunifu UI WinForms 1.11.5.1\Bunifu.UI.WinForms.BunifuSlider.dll</HintPath>
     </Reference>
     <Reference Include="Bunifu.UI.WinForms.BunifuTextbox">
-      <HintPath>..\..\..\Desktop\E\Uni\UOK\Y2S1\INTE 21223 - Interactive Application Development (20192020)\Bunifu UI WinForms 1.11.5.1\Bunifu UI WinForms 1.11.5.1\Bunifu.UI.WinForms.BunifuTextbox.dll</HintPath>
+      <HintPath>..\bunifu\Bunifu UI WinForms 1.11.5.1 (1)\Bunifu UI WinForms 1.11.5.1\Bunifu.UI.WinForms.BunifuTextbox.dll</HintPath>
     </Reference>
     <Reference Include="Bunifu.UI.WinForms.BunifuToolTip">
       <HintPath>..\..\..\Desktop\E\Uni\UOK\Y2S1\INTE 21223 - Interactive Application Development (20192020)\Bunifu UI WinForms 1.11.5.1\Bunifu UI WinForms 1.11.5.1\Bunifu.UI.WinForms.BunifuToolTip.dll</HintPath>
@@ -118,10 +118,10 @@
       <HintPath>..\..\..\Desktop\E\Uni\UOK\Y2S1\INTE 21223 - Interactive Application Development (20192020)\Bunifu UI WinForms 1.11.5.1\Bunifu UI WinForms 1.11.5.1\Bunifu.UI.WinForms.ToggleSwitch.dll</HintPath>
     </Reference>
     <Reference Include="bunifuDataviz 1.0.1">
-      <HintPath>..\..\..\Desktop\E\Uni\UOK\Y2S1\INTE 21223 - Interactive Application Development (20192020)\bunifuDataviz 1.0.1\bunifuDataviz 1.0.1.dll</HintPath>
+      <HintPath>..\..\Downloads\bunifuDataviz 1.0.1.dll</HintPath>
     </Reference>
     <Reference Include="Bunifu_UI_v1.5.3">
-      <HintPath>..\..\..\Desktop\E\Uni\UOK\Y2S1\INTE 21223 - Interactive Application Development (20192020)\Bunifu UI WinForms 1.11.5.1\Bunifu UI WinForms 1.11.5.1\Bunifu_UI_v1.5.3.dll</HintPath>
+      <HintPath>..\bunifu\Bunifu UI WinForms 1.11.5.1 (1)\Bunifu UI WinForms 1.11.5.1\Bunifu_UI_v1.5.3.dll</HintPath>
     </Reference>
     <Reference Include="System">
       <HintPath>..\..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.dll</HintPath>
@@ -196,6 +196,7 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\Centers.resx">
       <DependentUpon>Centers.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\Dashboard.resx">
       <DependentUpon>Dashboard.cs</DependentUpon>

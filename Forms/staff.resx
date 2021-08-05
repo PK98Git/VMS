@@ -117,44 +117,85 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="wp4465114" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\wp4465114.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="bunifuButton2.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAIkAAAAZCAYAAAAFQg2KAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADDSURBVGhD7dqxDQIxEETRbcR3lEIFtGYjyiAmpRQaIKKB
+        NefThB5Efn+kl1gb/tDB2F9baz+tLe9L6x3YXfMxulAiEUvN5/QQh1ZqvpTIFsnkABiUCJHAUyJEAk+J
+        EAk8JUIk8JQIkcBTIkQCT4kQCTwlQiTwlAiRwFMiRAJPiRAJPCVCJPCUCJHAUyJEAk+JEAk8JUIk8JQI
+        kcBTIkQCT4lEjL+MswMcW2n5USL7b/nz9vCeHeKYRiDllhclwtivRXwBKMxlgVJRWAcAAAAASUVORK5C
+        YII=
+</value>
   </data>
-  <data name="20944953-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\20944953-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="bunifuButton3.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAIkAAAAZCAYAAAAFQg2KAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADDSURBVGhD7dqxDQIxEETRbcR3lEIFtGYjyiAmpRQaIKKB
+        NefThB5Efn+kl1gb/tDB2F9baz+tLe9L6x3YXfMxulAiEUvN5/QQh1ZqvpTIFsnkABiUCJHAUyJEAk+J
+        EAk8JUIk8JQIkcBTIkQCT4kQCTwlQiTwlAiRwFMiRAJPiRAJPCVCJPCUCJHAUyJEAk+JEAk8JUIk8JQI
+        kcBTIkQCT4lEjL+MswMcW2n5USL7b/nz9vCeHeKYRiDllhclwtivRXwBKMxlgVJRWAcAAAAASUVORK5C
+        YII=
+</value>
   </data>
-  <data name="doctor-injecting-coronavirus-vaccine-to-a-patient-concept-free-vector" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\doctor-injecting-coronavirus-vaccine-to-a-patient-concept-free-vector.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="bunifuButton1.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAIkAAAAZCAYAAAAFQg2KAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADDSURBVGhD7dqxDQIxEETRbcR3lEIFtGYjyiAmpRQaIKKB
+        NefThB5Efn+kl1gb/tDB2F9baz+tLe9L6x3YXfMxulAiEUvN5/QQh1ZqvpTIFsnkABiUCJHAUyJEAk+J
+        EAk8JUIk8JQIkcBTIkQCT4kQCTwlQiTwlAiRwFMiRAJPiRAJPCVCJPCUCJHAUyJEAk+JEAk8JUIk8JQI
+        kcBTIkQCT4lEjL+MswMcW2n5USL7b/nz9vCeHeKYRiDllhclwtivRXwBKMxlgVJRWAcAAAAASUVORK5C
+        YII=
+</value>
   </data>
-  <data name="image_2021-06-07_155016 (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\image_2021-06-07_155016 (1).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="bunifuButton4.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAQoAAAAtCAYAAABWFSXzAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAE7SURBVHhe7daxTcNgFIVRj8ICOCvQ2WlYlJqWFeKfAbIA
+        VSYIiXRLX0Tvc6XTvfrTm8zM/rXTcnmZz98fp/O4AzzN5+3z2YZkYprmdXztHQJHtt1P67gmE4+PYvcI
+        YNyTCaEAumRCKIAumRAKoEsmhALokgmhALpkQiiALpkQCqBLJoQC6JIJoQC6ZEIogC6ZEAqgSyaEAuiS
+        CaEAumRCKIAumRAKoEsmhALokgmhALpkQiiALpkQCqBLJoQC6JIJoQC6ZEIogC6ZEAqgSyaEAuiSCaEA
+        umRCKIAumRAKoEsmhALokgmhALpkQiiALpkQCqBLJoQC6JIJoQC6ZEIogC6ZEAqgSyaEAuiSCaEAumRC
+        KIAumXiEYh3XvQPg6LZbMvEIxXJ5m9fxs38IHNN2e13GezJhZvbXpukXZ3gqEusV0KEAAAAASUVORK5C
+        YII=
+</value>
   </data>
-  <data name="doctor-injectinector" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\doctor-injectinector.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="bunifuButton5.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAQoAAAAtCAYAAABWFSXzAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAE7SURBVHhe7daxTcNgFIVRj8ICOCvQ2WlYlJqWFeKfAbIA
+        VSYIiXRLX0Tvc6XTvfrTm8zM/rXTcnmZz98fp/O4AzzN5+3z2YZkYprmdXztHQJHtt1P67gmE4+PYvcI
+        YNyTCaEAumRCKIAumRAKoEsmhALokgmhALpkQiiALpkQCqBLJoQC6JIJoQC6ZEIogC6ZEAqgSyaEAuiS
+        CaEAumRCKIAumRAKoEsmhALokgmhALpkQiiALpkQCqBLJoQC6JIJoQC6ZEIogC6ZEAqgSyaEAuiSCaEA
+        umRCKIAumRAKoEsmhALokgmhALpkQiiALpkQCqBLJoQC6JIJoQC6ZEIogC6ZEAqgSyaEAuiSCaEAumRC
+        KIAumXiEYh3XvQPg6LZbMvEIxXJ5m9fxs38IHNN2e13GezJhZvbXpukXZ3gqEusV0KEAAAAASUVORK5C
+        YII=
+</value>
   </data>
-  <data name="search_img" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\search_img.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="bunifuButton6.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAQoAAAAtCAYAAABWFSXzAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAE7SURBVHhe7daxTcNgFIVRj8ICOCvQ2WlYlJqWFeKfAbIA
+        VSYIiXRLX0Tvc6XTvfrTm8zM/rXTcnmZz98fp/O4AzzN5+3z2YZkYprmdXztHQJHtt1P67gmE4+PYvcI
+        YNyTCaEAumRCKIAumRAKoEsmhALokgmhALpkQiiALpkQCqBLJoQC6JIJoQC6ZEIogC6ZEAqgSyaEAuiS
+        CaEAumRCKIAumRAKoEsmhALokgmhALpkQiiALpkQCqBLJoQC6JIJoQC6ZEIogC6ZEAqgSyaEAuiSCaEA
+        umRCKIAumRAKoEsmhALokgmhALpkQiiALpkQCqBLJoQC6JIJoQC6ZEIogC6ZEAqgSyaEAuiSCaEAumRC
+        KIAumXiEYh3XvQPg6LZbMvEIxXJ5m9fxs38IHNN2e13GezJhZvbXpukXZ3gqEusV0KEAAAAASUVORK5C
+        YII=
+</value>
   </data>
-  <data name="doctor-injectinector" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\doctor-injectinector.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="output-onlinepngtools (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\output-onlinepngtools (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="search_img" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\search_img.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="image_2021-06-07_155016" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\image_2021-06-07_155016.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="covidshield" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\covidshield.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="close btn" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\close btn.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="bunifuButton7.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAQoAAAAtCAYAAABWFSXzAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHFSURBVHhe7dexatVgGMfhjB17B+3ooIl30M1zjoNdvQQX
+        r0XwGrwF166OSVw6FgcRFJEKVrCDfqf9gxTzgq7meeEhcM6bbPnxpTPGmH+efjs97bfzWfNp2M0/gXW4
+        feenN/1uepYc/DnD6Xi4X2oum8UHASuwnb+1BpwPm/E4efg9t5FYuAlYpXbCeHd0cnGQRNx8bjxvP35d
+        WgbWqd9M39v1ZTLhNAFUpvfJxP5EMV8tLwFrl0zsTxTLCwDJhFAAtWRCKIBaMiEUQC2ZEAqglkwIBVBL
+        JoQCqCUTQgHUkgmhAGrJhFAAtWRCKIBaMiEUQC2ZEAqglkwIBVBLJoQCqCUTQgHUkgmhAGrJhFAAtWRC
+        KIBaMiEUQC2ZEAqglkwIBVBLJoQCqCUTQgHUkgmhAGrJhFAAtWRCKIBaMiEUQC2ZEAqglkwIBVBLJoQC
+        qCUT+1BM10sLAMnETSjOlxaAtZsuk4mu63fTi343OlUAd7Q2vE4muu7o5OKglePD0iKwTi0SX4bNeJxM
+        3M7weHzY/vjY/Fi6CViLqUVi/vxgMz9JHu7OcDoetoVX/Xa+Wn4A8H+brtv7f3b/0dt7yYIxxvzNdN0v
+        fFH+F62pipgAAAAASUVORK5CYII=
+</value>
   </data>
 </root>

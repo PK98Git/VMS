@@ -88,11 +88,25 @@ namespace VMS
 
         }
 
-        private void bunifuButton3_Click(object sender, EventArgs e)
+        private void BunifuButton3_Click(object sender, EventArgs e)
         {
             Forms.Dashboard DB = new Forms.Dashboard();
             DB.Show();
             this.Hide();
+        }
+
+        private void bunifuButton3_Click(object sender, EventArgs e)
+        {
+            
+
+            Forms.Dashboard DB = new Forms.Dashboard();
+            DB.Show();
+            this.Hide();
+        }
+
+        private void bunifuButton4_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

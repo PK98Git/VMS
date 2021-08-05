@@ -42,7 +42,7 @@ namespace VMS.Forms
         }
 
 
-        private void chart1_Click(object sender, EventArgs e)
+        private void Chart1_Click(object sender, EventArgs e)
         {
 
         }
@@ -156,6 +156,24 @@ namespace VMS.Forms
         private void label2_Click_1(object sender, EventArgs e)
         {
 
+        }
+
+        private void bunifuButton5_Click(object sender, EventArgs e)
+        {
+            Centers CE1 = new Centers();
+            CE1.Show();
+            this.Hide();
+        }
+
+        private void chart1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+
+        private void bunifuButton3_Click(object sender, EventArgs e)
+        {
+           
         }
     }
 }
